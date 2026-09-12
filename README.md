@@ -175,7 +175,7 @@ by applying a resolution.
 *If the Play Store version doesn't work on your device, you may use
 this [Shizuku fork](https://github.com/thedjchi/Shizuku/releases) instead.
 
-</details>
+</details>adb shell pm grant com.tribalfs.pixels android.permission.WRITE_SECURE_SETTINGS
 
 
 
